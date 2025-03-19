@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/ObjectOrientedApp/bin/Debug/net9.0/ObjectOrientedApp
+/Users/vasiliskr/7.C# .NET/ObjectorientedApp/ObjectOrientedApp/bin/Debug/net9.0/ObjectOrientedApp.deps.json
+/Users/vasiliskr/7.C# .NET/ObjectorientedApp/ObjectOrientedApp/bin/Debug/net9.0/ObjectOrientedApp.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/ObjectOrientedApp/bin/Debug/net9.0/ObjectOrientedApp.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/ObjectOrientedApp/bin/Debug/net9.0/ObjectOrientedApp.pdb
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/ObjectOrientedApp/obj/Debug/net9.0/ObjectOrientedApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/ObjectOrientedApp/obj/Debug/net9.0/ObjectOrientedApp.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/ObjectOrientedApp/obj/Debug/net9.0/ObjectOrientedApp.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/ObjectOrientedApp/obj/Debug/net9.0/ObjectOrientedApp.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/ObjectOrientedApp/obj/Debug/net9.0/ObjectOrientedApp.sourcelink.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/ObjectOrientedApp/obj/Debug/net9.0/ObjectOrientedApp.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/ObjectOrientedApp/obj/Debug/net9.0/refint/ObjectOrientedApp.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/ObjectOrientedApp/obj/Debug/net9.0/ObjectOrientedApp.pdb
+/Users/vasiliskr/7.C# .NET/ObjectorientedApp/ObjectOrientedApp/obj/Debug/net9.0/ObjectOrientedApp.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/ObjectorientedApp/ObjectOrientedApp/obj/Debug/net9.0/ref/ObjectOrientedApp.dll
