@@ -1,9 +1,9 @@
 using ObjectOrientedApp.Exceptions;
 
 namespace ObjectOrientedApp;
-/// <summary>
-/// 
-/// </summary>
+    /// <summary>
+    /// 
+    /// </summary>
 public class AccountApp
 {
     public int Id { get; set; }

@@ -24,12 +24,13 @@ public class Teacher
 
     public override string? ToString() => $"{Id} {Firstname} {Lastname}";
 
-    //  Compares two Teacher objects for equality.
+    //  Compares two Teacher objects for equality and returns true or false
     public override bool Equals(object? obj)
     {
         return obj is Teacher teacher && Id == teacher.Id 
                                       && Firstname == teacher.Firstname
-                                      && Lastname == teacher.Lastname;
+                                      && Lastname == teacher.Lastname
+                                      && SchoolType == teacher.SchoolType;
     }
 
     // Generates a unique integer (hash code) for each Teacher object.

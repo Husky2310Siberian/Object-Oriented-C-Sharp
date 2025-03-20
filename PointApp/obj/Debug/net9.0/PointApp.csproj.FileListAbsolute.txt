@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/PointApp/bin/Debug/net9.0/PointApp
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/PointApp/bin/Debug/net9.0/PointApp.deps.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/PointApp/bin/Debug/net9.0/PointApp.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/PointApp/bin/Debug/net9.0/PointApp.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/PointApp/bin/Debug/net9.0/PointApp.pdb
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/PointApp/obj/Debug/net9.0/PointApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/PointApp/obj/Debug/net9.0/PointApp.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/PointApp/obj/Debug/net9.0/PointApp.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/PointApp/obj/Debug/net9.0/PointApp.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/PointApp/obj/Debug/net9.0/PointApp.sourcelink.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/PointApp/obj/Debug/net9.0/PointApp.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/PointApp/obj/Debug/net9.0/refint/PointApp.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/PointApp/obj/Debug/net9.0/PointApp.pdb
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/PointApp/obj/Debug/net9.0/PointApp.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/PointApp/obj/Debug/net9.0/ref/PointApp.dll
