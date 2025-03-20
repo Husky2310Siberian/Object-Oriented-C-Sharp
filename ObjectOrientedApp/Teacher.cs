@@ -8,16 +8,18 @@ public class Teacher
     public int Id { get; set; }
     public string? Firstname { get; set; }
     public string? Lastname { get; set; }
+    public SchoolType SchoolType { get; set; }
 
     // default constructor that allows, creating an instance without setting values.
     public Teacher() { }
 
     // parameterized constructor that sets initial values.
-    public Teacher(int id, string? firstname, string? lastname)
+    public Teacher(int id, string? firstname, string? lastname , SchoolType schoolType)
     {
         Id = id;
         Firstname = firstname;
         Lastname = lastname;
+        SchoolType = schoolType;
     }
 
     public override string? ToString() => $"{Id} {Firstname} {Lastname}";

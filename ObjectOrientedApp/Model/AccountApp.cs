@@ -101,11 +101,11 @@ public class AccountApp
             Console.WriteLine(ex.StackTrace);
         }
     }
-/// <summary>
-/// 
-/// </summary>
-/// <param name="amount"></param>
-/// <returns></returns>
+    /// <summary>
+    /// 
+    /// </summary>
+    /// <param name="amount"></param>
+    /// <returns></returns>
     public decimal GetBalance(decimal amount)
     {
         return Balance;
