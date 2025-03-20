@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/InterfacesApp/bin/Debug/net9.0/InterfacesApp
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/InterfacesApp/bin/Debug/net9.0/InterfacesApp.deps.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/InterfacesApp/bin/Debug/net9.0/InterfacesApp.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/InterfacesApp/bin/Debug/net9.0/InterfacesApp.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/InterfacesApp/bin/Debug/net9.0/InterfacesApp.pdb
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/InterfacesApp/obj/Debug/net9.0/InterfacesApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/InterfacesApp/obj/Debug/net9.0/InterfacesApp.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/InterfacesApp/obj/Debug/net9.0/InterfacesApp.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/InterfacesApp/obj/Debug/net9.0/InterfacesApp.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/InterfacesApp/obj/Debug/net9.0/InterfacesApp.sourcelink.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/InterfacesApp/obj/Debug/net9.0/InterfacesApp.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/InterfacesApp/obj/Debug/net9.0/refint/InterfacesApp.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/InterfacesApp/obj/Debug/net9.0/InterfacesApp.pdb
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/InterfacesApp/obj/Debug/net9.0/InterfacesApp.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/InterfacesApp/obj/Debug/net9.0/ref/InterfacesApp.dll
