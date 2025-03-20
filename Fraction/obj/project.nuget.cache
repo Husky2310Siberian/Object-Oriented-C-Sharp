@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LegQwoF/is4=",
+  "success": true,
+  "projectFilePath": "/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/Fraction/Fraction.csproj",
+  "expectedPackageFiles": [
+    "/Users/vasiliskr/.nuget/packages/microsoft.dotnet.ilcompiler/9.0.3/microsoft.dotnet.ilcompiler.9.0.3.nupkg.sha512",
+    "/Users/vasiliskr/.nuget/packages/microsoft.net.illink.tasks/9.0.3/microsoft.net.illink.tasks.9.0.3.nupkg.sha512",
+    "/Users/vasiliskr/.nuget/packages/runtime.osx-arm64.microsoft.dotnet.ilcompiler/9.0.3/runtime.osx-arm64.microsoft.dotnet.ilcompiler.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
