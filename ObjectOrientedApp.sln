@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectOrientedApp", "Object
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointApp", "PointApp\PointApp.csproj", "{A214B009-8E95-4C89-88F1-060554DDEA71}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Copying", "Copying\Copying.csproj", "{D01DA29E-BE6D-4E6A-A937-CF8570472674}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{A214B009-8E95-4C89-88F1-060554DDEA71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A214B009-8E95-4C89-88F1-060554DDEA71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A214B009-8E95-4C89-88F1-060554DDEA71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D01DA29E-BE6D-4E6A-A937-CF8570472674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D01DA29E-BE6D-4E6A-A937-CF8570472674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D01DA29E-BE6D-4E6A-A937-CF8570472674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D01DA29E-BE6D-4E6A-A937-CF8570472674}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

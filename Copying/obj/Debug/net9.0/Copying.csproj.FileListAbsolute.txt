@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/Copying/bin/Debug/net9.0/Copying
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/Copying/bin/Debug/net9.0/Copying.deps.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/Copying/bin/Debug/net9.0/Copying.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/Copying/bin/Debug/net9.0/Copying.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/Copying/bin/Debug/net9.0/Copying.pdb
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/Copying/obj/Debug/net9.0/Copying.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/Copying/obj/Debug/net9.0/Copying.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/Copying/obj/Debug/net9.0/Copying.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/Copying/obj/Debug/net9.0/Copying.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/Copying/obj/Debug/net9.0/Copying.sourcelink.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/Copying/obj/Debug/net9.0/Copying.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/Copying/obj/Debug/net9.0/refint/Copying.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/Copying/obj/Debug/net9.0/Copying.pdb
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/Copying/obj/Debug/net9.0/Copying.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/Copying/obj/Debug/net9.0/ref/Copying.dll
