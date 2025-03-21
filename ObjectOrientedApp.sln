@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fraction", "Fraction\Fracti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesApp", "InterfacesApp\InterfacesApp.csproj", "{7D605833-12CA-46B8-9FAD-DECFFC5888D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalSaysHi", "AnimalSaysHi\AnimalSaysHi.csproj", "{0F9DFC30-8EA5-4727-92F5-32124E6DA276}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{7D605833-12CA-46B8-9FAD-DECFFC5888D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D605833-12CA-46B8-9FAD-DECFFC5888D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D605833-12CA-46B8-9FAD-DECFFC5888D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F9DFC30-8EA5-4727-92F5-32124E6DA276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F9DFC30-8EA5-4727-92F5-32124E6DA276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F9DFC30-8EA5-4727-92F5-32124E6DA276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F9DFC30-8EA5-4727-92F5-32124E6DA276}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/AnimalSaysHi/bin/Debug/net9.0/AnimalSaysHi
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/AnimalSaysHi/bin/Debug/net9.0/AnimalSaysHi.deps.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/AnimalSaysHi/bin/Debug/net9.0/AnimalSaysHi.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/AnimalSaysHi/bin/Debug/net9.0/AnimalSaysHi.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/AnimalSaysHi/bin/Debug/net9.0/AnimalSaysHi.pdb
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/AnimalSaysHi/obj/Debug/net9.0/AnimalSaysHi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/AnimalSaysHi/obj/Debug/net9.0/AnimalSaysHi.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/AnimalSaysHi/obj/Debug/net9.0/AnimalSaysHi.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/AnimalSaysHi/obj/Debug/net9.0/AnimalSaysHi.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/AnimalSaysHi/obj/Debug/net9.0/AnimalSaysHi.sourcelink.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/AnimalSaysHi/obj/Debug/net9.0/AnimalSaysHi.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/AnimalSaysHi/obj/Debug/net9.0/refint/AnimalSaysHi.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/AnimalSaysHi/obj/Debug/net9.0/AnimalSaysHi.pdb
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/AnimalSaysHi/obj/Debug/net9.0/AnimalSaysHi.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/AnimalSaysHi/obj/Debug/net9.0/ref/AnimalSaysHi.dll

@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/EmployeeShallowDeepCopy/obj/Debug/net9.0/EmployeeShallowDeepCopy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/EmployeeShallowDeepCopy/obj/Debug/net9.0/EmployeeShallowDeepCopy.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/EmployeeShallowDeepCopy/obj/Debug/net9.0/EmployeeShallowDeepCopy.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/EmployeeShallowDeepCopy/obj/Debug/net9.0/EmployeeShallowDeepCopy.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/EmployeeShallowDeepCopy/obj/Debug/net9.0/EmployeeShallowDeepCopy.sourcelink.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/EmployeeShallowDeepCopy/bin/Debug/net9.0/EmployeeShallowDeepCopy
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/EmployeeShallowDeepCopy/bin/Debug/net9.0/EmployeeShallowDeepCopy.deps.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/EmployeeShallowDeepCopy/bin/Debug/net9.0/EmployeeShallowDeepCopy.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/EmployeeShallowDeepCopy/bin/Debug/net9.0/EmployeeShallowDeepCopy.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/EmployeeShallowDeepCopy/bin/Debug/net9.0/EmployeeShallowDeepCopy.pdb
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/EmployeeShallowDeepCopy/obj/Debug/net9.0/EmployeeShallowDeepCopy.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/EmployeeShallowDeepCopy/obj/Debug/net9.0/refint/EmployeeShallowDeepCopy.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/EmployeeShallowDeepCopy/obj/Debug/net9.0/EmployeeShallowDeepCopy.pdb
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/EmployeeShallowDeepCopy/obj/Debug/net9.0/EmployeeShallowDeepCopy.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/EmployeeShallowDeepCopy/obj/Debug/net9.0/ref/EmployeeShallowDeepCopy.dll
