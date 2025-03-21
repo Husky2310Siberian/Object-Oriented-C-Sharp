@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PointMonolithic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3acb409a6cd2321f2343f24cc117ac77ab62c97")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f96da7b0918dc7b48fb28275317bd9b3b7e9e730")]
 [assembly: System.Reflection.AssemblyProductAttribute("PointMonolithic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PointMonolithic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

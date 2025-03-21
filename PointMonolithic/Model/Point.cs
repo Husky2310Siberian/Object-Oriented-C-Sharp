@@ -60,7 +60,7 @@ public class Point : IEquatable<Point>, IComparable<Point>
     /// <returns></returns>
     public override string ToString()
     {
-        return $"({X})";
+        return $"(X:{{{X}}})";
     }
 
     public static bool operator >(Point? p1, Point? p2)
