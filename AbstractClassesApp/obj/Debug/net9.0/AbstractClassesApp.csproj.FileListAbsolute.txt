@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/AbstractClassesApp/bin/Debug/net9.0/AbstractClassesApp
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/AbstractClassesApp/bin/Debug/net9.0/AbstractClassesApp.deps.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/AbstractClassesApp/bin/Debug/net9.0/AbstractClassesApp.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/AbstractClassesApp/bin/Debug/net9.0/AbstractClassesApp.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/AbstractClassesApp/bin/Debug/net9.0/AbstractClassesApp.pdb
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/AbstractClassesApp/obj/Debug/net9.0/AbstractClassesApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/AbstractClassesApp/obj/Debug/net9.0/AbstractClassesApp.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/AbstractClassesApp/obj/Debug/net9.0/AbstractClassesApp.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/AbstractClassesApp/obj/Debug/net9.0/AbstractClassesApp.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/AbstractClassesApp/obj/Debug/net9.0/AbstractClassesApp.sourcelink.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/AbstractClassesApp/obj/Debug/net9.0/AbstractClassesApp.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/AbstractClassesApp/obj/Debug/net9.0/refint/AbstractClassesApp.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/AbstractClassesApp/obj/Debug/net9.0/AbstractClassesApp.pdb
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/AbstractClassesApp/obj/Debug/net9.0/AbstractClassesApp.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/AbstractClassesApp/obj/Debug/net9.0/ref/AbstractClassesApp.dll

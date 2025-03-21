@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalSaysHi", "AnimalSaysH
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointMonolithic", "PointMonolithic\PointMonolithic.csproj", "{098F7F85-09D5-45C4-8879-7000DD548866}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClassesApp", "AbstractClassesApp\AbstractClassesApp.csproj", "{BC38138B-66FB-4811-A0E5-7999DDB27F0D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{098F7F85-09D5-45C4-8879-7000DD548866}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{098F7F85-09D5-45C4-8879-7000DD548866}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{098F7F85-09D5-45C4-8879-7000DD548866}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC38138B-66FB-4811-A0E5-7999DDB27F0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC38138B-66FB-4811-A0E5-7999DDB27F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC38138B-66FB-4811-A0E5-7999DDB27F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC38138B-66FB-4811-A0E5-7999DDB27F0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
