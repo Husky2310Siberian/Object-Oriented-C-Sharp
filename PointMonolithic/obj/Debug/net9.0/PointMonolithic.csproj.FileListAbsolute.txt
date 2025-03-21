@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/PointMonolithic/bin/Debug/net9.0/PointMonolithic
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/PointMonolithic/bin/Debug/net9.0/PointMonolithic.deps.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/PointMonolithic/bin/Debug/net9.0/PointMonolithic.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/PointMonolithic/bin/Debug/net9.0/PointMonolithic.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/PointMonolithic/bin/Debug/net9.0/PointMonolithic.pdb
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/PointMonolithic/obj/Debug/net9.0/PointMonolithic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/PointMonolithic/obj/Debug/net9.0/PointMonolithic.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/PointMonolithic/obj/Debug/net9.0/PointMonolithic.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/PointMonolithic/obj/Debug/net9.0/PointMonolithic.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/PointMonolithic/obj/Debug/net9.0/PointMonolithic.sourcelink.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/PointMonolithic/obj/Debug/net9.0/PointMonolithic.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/PointMonolithic/obj/Debug/net9.0/refint/PointMonolithic.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/PointMonolithic/obj/Debug/net9.0/PointMonolithic.pdb
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/PointMonolithic/obj/Debug/net9.0/PointMonolithic.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/PointMonolithic/obj/Debug/net9.0/ref/PointMonolithic.dll
