@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/LinqApp/bin/Debug/net9.0/LinqApp
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/LinqApp/bin/Debug/net9.0/LinqApp.deps.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/LinqApp/bin/Debug/net9.0/LinqApp.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/LinqApp/bin/Debug/net9.0/LinqApp.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/LinqApp/bin/Debug/net9.0/LinqApp.pdb
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/LinqApp/obj/Debug/net9.0/LinqApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/LinqApp/obj/Debug/net9.0/LinqApp.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/LinqApp/obj/Debug/net9.0/LinqApp.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/LinqApp/obj/Debug/net9.0/LinqApp.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/LinqApp/obj/Debug/net9.0/LinqApp.sourcelink.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/LinqApp/obj/Debug/net9.0/LinqApp.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/LinqApp/obj/Debug/net9.0/refint/LinqApp.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/LinqApp/obj/Debug/net9.0/LinqApp.pdb
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/LinqApp/obj/Debug/net9.0/LinqApp.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/LinqApp/obj/Debug/net9.0/ref/LinqApp.dll

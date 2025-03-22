@@ -22,6 +22,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionsAppDemo", "Colle
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductsCompareApp", "ProductsCompareApp\ProductsCompareApp.csproj", "{CAE8A829-5B84-4421-A1FE-60964F344C0F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqApp", "LinqApp\LinqApp.csproj", "{AD98C697-2748-493E-8F43-992EA21FCBBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,9 @@ Global
 		{CAE8A829-5B84-4421-A1FE-60964F344C0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAE8A829-5B84-4421-A1FE-60964F344C0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAE8A829-5B84-4421-A1FE-60964F344C0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD98C697-2748-493E-8F43-992EA21FCBBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD98C697-2748-493E-8F43-992EA21FCBBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD98C697-2748-493E-8F43-992EA21FCBBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD98C697-2748-493E-8F43-992EA21FCBBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
