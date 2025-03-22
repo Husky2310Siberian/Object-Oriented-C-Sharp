@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/TransportDemo/bin/Debug/net9.0/TransportDemo
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/TransportDemo/bin/Debug/net9.0/TransportDemo.deps.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/TransportDemo/bin/Debug/net9.0/TransportDemo.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/TransportDemo/bin/Debug/net9.0/TransportDemo.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/TransportDemo/bin/Debug/net9.0/TransportDemo.pdb
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/TransportDemo/obj/Debug/net9.0/TransportDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/TransportDemo/obj/Debug/net9.0/TransportDemo.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/TransportDemo/obj/Debug/net9.0/TransportDemo.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/TransportDemo/obj/Debug/net9.0/TransportDemo.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/TransportDemo/obj/Debug/net9.0/TransportDemo.sourcelink.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/TransportDemo/obj/Debug/net9.0/TransportDemo.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/TransportDemo/obj/Debug/net9.0/refint/TransportDemo.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/TransportDemo/obj/Debug/net9.0/TransportDemo.pdb
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/TransportDemo/obj/Debug/net9.0/TransportDemo.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/TransportDemo/obj/Debug/net9.0/ref/TransportDemo.dll

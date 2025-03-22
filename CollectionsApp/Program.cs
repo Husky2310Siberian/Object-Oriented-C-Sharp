@@ -65,9 +65,10 @@ class Program
         /*
          * Dictionaries
          */
-        //words.Add(1,"Athens");
+        words.Add(1,"Athens");
         words[2] = "Uni";
         words[3] = "Econ";
+        
         words.Remove(1);
         
         if (words.ContainsKey(4))
