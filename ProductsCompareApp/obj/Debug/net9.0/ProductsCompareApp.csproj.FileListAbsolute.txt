@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/ProductsCompareApp/bin/Debug/net9.0/ProductsCompareApp
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/ProductsCompareApp/bin/Debug/net9.0/ProductsCompareApp.deps.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/ProductsCompareApp/bin/Debug/net9.0/ProductsCompareApp.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/ProductsCompareApp/bin/Debug/net9.0/ProductsCompareApp.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/ProductsCompareApp/bin/Debug/net9.0/ProductsCompareApp.pdb
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/ProductsCompareApp/obj/Debug/net9.0/ProductsCompareApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/ProductsCompareApp/obj/Debug/net9.0/ProductsCompareApp.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/ProductsCompareApp/obj/Debug/net9.0/ProductsCompareApp.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/ProductsCompareApp/obj/Debug/net9.0/ProductsCompareApp.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/ProductsCompareApp/obj/Debug/net9.0/ProductsCompareApp.sourcelink.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/ProductsCompareApp/obj/Debug/net9.0/ProductsCompareApp.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/ProductsCompareApp/obj/Debug/net9.0/refint/ProductsCompareApp.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/ProductsCompareApp/obj/Debug/net9.0/ProductsCompareApp.pdb
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/ProductsCompareApp/obj/Debug/net9.0/ProductsCompareApp.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/ProductsCompareApp/obj/Debug/net9.0/ref/ProductsCompareApp.dll
