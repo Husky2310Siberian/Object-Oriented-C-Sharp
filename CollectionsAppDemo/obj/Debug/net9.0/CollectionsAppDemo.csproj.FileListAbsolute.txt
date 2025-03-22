@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/CollectionsAppDemo/bin/Debug/net9.0/CollectionsAppDemo
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/CollectionsAppDemo/bin/Debug/net9.0/CollectionsAppDemo.deps.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/CollectionsAppDemo/bin/Debug/net9.0/CollectionsAppDemo.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/CollectionsAppDemo/bin/Debug/net9.0/CollectionsAppDemo.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/CollectionsAppDemo/bin/Debug/net9.0/CollectionsAppDemo.pdb
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/CollectionsAppDemo/obj/Debug/net9.0/CollectionsAppDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/CollectionsAppDemo/obj/Debug/net9.0/CollectionsAppDemo.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/CollectionsAppDemo/obj/Debug/net9.0/CollectionsAppDemo.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/CollectionsAppDemo/obj/Debug/net9.0/CollectionsAppDemo.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/CollectionsAppDemo/obj/Debug/net9.0/CollectionsAppDemo.sourcelink.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/CollectionsAppDemo/obj/Debug/net9.0/CollectionsAppDemo.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/CollectionsAppDemo/obj/Debug/net9.0/refint/CollectionsAppDemo.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/CollectionsAppDemo/obj/Debug/net9.0/CollectionsAppDemo.pdb
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/CollectionsAppDemo/obj/Debug/net9.0/CollectionsAppDemo.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/CollectionsAppDemo/obj/Debug/net9.0/ref/CollectionsAppDemo.dll
