@@ -39,7 +39,37 @@ class Program
         /*
          * Fluent API = Method Syntax
          */
+        //filtering
+        Console.WriteLine("Filtering");
+        var evenNumbers2 = numbers.Where(num => num % 2 == 0);
+        Console.WriteLine(string.Join(", ", evenNumbers2));
+        //mapping
+        Console.WriteLine("Mapping");
+        var squares = numbers.Select(num => num * num).ToList();
+        squares.ForEach(Console.WriteLine);
+        //Reduce
+        Console.WriteLine("Reduce");
+        var sum = numbers.Sum();
+        Console.WriteLine(sum);
+        // Min - Max
+        Console.WriteLine("Min - Max - Average");
+        var min = numbers.Min();
+        var max = numbers.Max();
+        var avg = numbers.Average();
+        Console.WriteLine("min:" +min);
+        Console.WriteLine("max:" +max);
+        Console.WriteLine("average:" +avg);
+        // grater than 10
+        var anyGreaterThan10 = numbers.Any(num => num >= 10);
+        Console.WriteLine("Any grater than 10: " +anyGreaterThan10);
         
+        Console.WriteLine("---------------");
+        var allGt1 = numbers.All(num => num >= 1);
+        Console.WriteLine("All grater than 1: " + allGt1);
         
+        Console.WriteLine("--------------");
+        var odds = numbers.Where(num => num % 2 != 0).Select(num => num * 2).ToList();
+        odds.ForEach(Console.WriteLine);
+
     }
 }
