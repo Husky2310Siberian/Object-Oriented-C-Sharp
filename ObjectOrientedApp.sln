@@ -28,6 +28,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransportDemo", "TransportD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentApp", "StudentApp\StudentApp.csproj", "{2BC5F0D1-EFA1-48E7-84AB-84CB5B918D9A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackApp", "StackApp\StackApp.csproj", "{6031CE55-E97C-4F32-8832-834FE5FEFE3F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -90,5 +92,9 @@ Global
 		{2BC5F0D1-EFA1-48E7-84AB-84CB5B918D9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BC5F0D1-EFA1-48E7-84AB-84CB5B918D9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BC5F0D1-EFA1-48E7-84AB-84CB5B918D9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6031CE55-E97C-4F32-8832-834FE5FEFE3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6031CE55-E97C-4F32-8832-834FE5FEFE3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6031CE55-E97C-4F32-8832-834FE5FEFE3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6031CE55-E97C-4F32-8832-834FE5FEFE3F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

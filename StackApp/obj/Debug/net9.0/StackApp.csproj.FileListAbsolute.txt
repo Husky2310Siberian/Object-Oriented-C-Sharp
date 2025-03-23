@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/StackApp/bin/Debug/net9.0/StackApp
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/StackApp/bin/Debug/net9.0/StackApp.deps.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/StackApp/bin/Debug/net9.0/StackApp.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/StackApp/bin/Debug/net9.0/StackApp.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/StackApp/bin/Debug/net9.0/StackApp.pdb
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/StackApp/obj/Debug/net9.0/StackApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/StackApp/obj/Debug/net9.0/StackApp.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/StackApp/obj/Debug/net9.0/StackApp.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/StackApp/obj/Debug/net9.0/StackApp.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/StackApp/obj/Debug/net9.0/StackApp.sourcelink.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/StackApp/obj/Debug/net9.0/StackApp.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/StackApp/obj/Debug/net9.0/refint/StackApp.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/StackApp/obj/Debug/net9.0/StackApp.pdb
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/StackApp/obj/Debug/net9.0/StackApp.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/StackApp/obj/Debug/net9.0/ref/StackApp.dll
