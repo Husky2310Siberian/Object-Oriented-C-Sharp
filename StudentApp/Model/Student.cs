@@ -9,7 +9,7 @@ public class Student : IEquatable<Student> , IComparable<Student>
    //Inner Layer
    public int Id { get; set; }
    public string? Lastname { get; set; }
-   public int Grade { get; set; }
+   public double Grade { get; set; }
    public int Age { get; set; }
    
    private static readonly SortedDictionary<int,Student> _students = new ();
@@ -18,7 +18,7 @@ public class Student : IEquatable<Student> , IComparable<Student>
 
    public Student() { }
 
-   public Student(int id, string? lastname, int grade, int age)
+   public Student(int id, string? lastname, double grade, int age)
    {
       Id = id;
       Lastname = lastname;
@@ -41,19 +41,29 @@ public class Student : IEquatable<Student> , IComparable<Student>
       return gradeComparison != 0 ? gradeComparison : string.Compare(Lastname, other.Lastname, StringComparison.Ordinal);
    }
 
-   public void Insert()
+   /*
+    * CRUD
+    */
+   /// <summary>
+   /// Inserts the student if the ID is unique.
+   /// </summary>
+   /// <exception cref="InvalidOperationException"></exception>
+   public void InsertStudent()
    {
       if (!_students.ContainsKey(Id))
       {
-         _students.Add(Id, new Student());
+         _students.Add(Id, this);
       }
       else
       {
          throw new InvalidOperationException("Student ID already exists");
       }
    }
-
-   public void Update()
+   /// <summary>
+   /// Updates student details if the StudentId exists.
+   /// </summary>
+   /// <exception cref="KeyNotFoundException"></exception>
+   public void UpdateStudent()
    {
       if (_students.ContainsKey(Id))
          _students[Id] = this;
@@ -62,18 +72,47 @@ public class Student : IEquatable<Student> , IComparable<Student>
          throw new KeyNotFoundException("Student ID does not exist");
       }
    }
-
-   public void Delete()
+   /// <summary>
+   ///  Removes the student if the ID exists.
+   /// </summary>
+   /// <exception cref="KeyNotFoundException"></exception>
+   public void DeleteStudent()
    {
       if (!_students.ContainsKey(Id))
       {
          throw new KeyNotFoundException("Student ID does not exist");
       }
-      else
-      {
-         _students.Remove(Id);
-      }
+   }
+   /// <summary>
+   /// Returns a copy of _students to prevent modifications.
+   /// </summary>
+   public static IReadOnlyDictionary<int, Student> GetAllStudents() 
+   {
+      return new Dictionary<int,Student>(_students);
    }
    
-   public static IReadOnlyDictionary<int, Student> GetAllStudents => new Dictionary<int,Student>(_students);
+   /*
+    * Service
+    */
+   // public void Insert()
+   // {
+   //    InsertStudent();
+   // }
+   //
+   // public Student? Update(Student? student)
+   // {
+   //    if (student is null) return null;
+   //    UpdateStudent();
+   //    return student;
+   // }
+   //
+   // public void Delete()
+   // {
+   //    DeleteStudent();
+   // }
+   //
+   // public void GetAllStudentsDetails()
+   // {
+   //    GetAllStudents();
+   // }
 }
