@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqApp", "LinqApp\LinqApp.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransportDemo", "TransportDemo\TransportDemo.csproj", "{95255F26-6B4A-4086-B26C-2AAF340AF39A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentApp", "StudentApp\StudentApp.csproj", "{2BC5F0D1-EFA1-48E7-84AB-84CB5B918D9A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{95255F26-6B4A-4086-B26C-2AAF340AF39A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95255F26-6B4A-4086-B26C-2AAF340AF39A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95255F26-6B4A-4086-B26C-2AAF340AF39A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BC5F0D1-EFA1-48E7-84AB-84CB5B918D9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BC5F0D1-EFA1-48E7-84AB-84CB5B918D9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BC5F0D1-EFA1-48E7-84AB-84CB5B918D9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BC5F0D1-EFA1-48E7-84AB-84CB5B918D9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
