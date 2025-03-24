@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/LinkListDemo/bin/Debug/net9.0/LinkListDemo
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/LinkListDemo/bin/Debug/net9.0/LinkListDemo.deps.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/LinkListDemo/bin/Debug/net9.0/LinkListDemo.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/LinkListDemo/bin/Debug/net9.0/LinkListDemo.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/LinkListDemo/bin/Debug/net9.0/LinkListDemo.pdb
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/LinkListDemo/obj/Debug/net9.0/LinkListDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/LinkListDemo/obj/Debug/net9.0/LinkListDemo.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/LinkListDemo/obj/Debug/net9.0/LinkListDemo.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/LinkListDemo/obj/Debug/net9.0/LinkListDemo.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/LinkListDemo/obj/Debug/net9.0/LinkListDemo.sourcelink.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/LinkListDemo/obj/Debug/net9.0/LinkListDemo.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/LinkListDemo/obj/Debug/net9.0/refint/LinkListDemo.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/LinkListDemo/obj/Debug/net9.0/LinkListDemo.pdb
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/LinkListDemo/obj/Debug/net9.0/LinkListDemo.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/LinkListDemo/obj/Debug/net9.0/ref/LinkListDemo.dll

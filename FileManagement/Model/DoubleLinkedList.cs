@@ -1,5 +1,4 @@
 namespace FileManagement.Model;
-
 internal class DoubleLinkedList<T>
 {
     public GenericNode<T>? Head { get; set; } = null;
