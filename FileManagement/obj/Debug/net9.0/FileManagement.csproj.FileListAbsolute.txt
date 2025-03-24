@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/FileManagement/bin/Debug/net9.0/FileManagement
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/FileManagement/bin/Debug/net9.0/FileManagement.deps.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/FileManagement/bin/Debug/net9.0/FileManagement.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/FileManagement/bin/Debug/net9.0/FileManagement.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/FileManagement/bin/Debug/net9.0/FileManagement.pdb
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/FileManagement/obj/Debug/net9.0/FileManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/FileManagement/obj/Debug/net9.0/FileManagement.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/FileManagement/obj/Debug/net9.0/FileManagement.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/FileManagement/obj/Debug/net9.0/FileManagement.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/FileManagement/obj/Debug/net9.0/FileManagement.sourcelink.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/FileManagement/obj/Debug/net9.0/FileManagement.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/FileManagement/obj/Debug/net9.0/refint/FileManagement.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/FileManagement/obj/Debug/net9.0/FileManagement.pdb
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/FileManagement/obj/Debug/net9.0/FileManagement.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/FileManagement/obj/Debug/net9.0/ref/FileManagement.dll

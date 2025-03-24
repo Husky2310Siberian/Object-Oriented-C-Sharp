@@ -76,6 +76,36 @@ internal class DoubleLinkedList<T>
         node.Count++;
     }
 
+    public void ShortByCount()
+    {
+        for (GenericNode<T>? iNode = Head!; iNode.Next != null; iNode = iNode.Next!)
+        {
+            int minVal = iNode.Count;
+            GenericNode<T> minPos = iNode;
+            for (GenericNode<T> jNode = iNode.Next; jNode is not null; jNode = jNode.Next!)
+            {
+                if (jNode.Count > minVal)
+                {
+                    minVal = jNode.Count;
+                    minPos = jNode;
+                }
+                Swap(iNode,minPos);
+            }
+        }
+    }
+
+    public void Swap(GenericNode<T>? iNode, GenericNode<T>? jNode)
+    {
+        T? tmpVal = iNode.Value;
+        int tmpCount = iNode.Count;
+        
+        iNode.Value = jNode.Value;
+        iNode.Count = jNode.Count;
+        
+        jNode.Value = tmpVal;
+        jNode.Count = tmpCount;
+    }
+    
     public bool IsEmpty()
     {
         return Head == null && Tail == null;
