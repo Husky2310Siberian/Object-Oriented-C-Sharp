@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/SinglyLinkList/bin/Debug/net9.0/SinglyLinkList
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/SinglyLinkList/bin/Debug/net9.0/SinglyLinkList.deps.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/SinglyLinkList/bin/Debug/net9.0/SinglyLinkList.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/SinglyLinkList/bin/Debug/net9.0/SinglyLinkList.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/SinglyLinkList/bin/Debug/net9.0/SinglyLinkList.pdb
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/SinglyLinkList/obj/Debug/net9.0/SinglyLinkList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/SinglyLinkList/obj/Debug/net9.0/SinglyLinkList.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/SinglyLinkList/obj/Debug/net9.0/SinglyLinkList.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/SinglyLinkList/obj/Debug/net9.0/SinglyLinkList.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/SinglyLinkList/obj/Debug/net9.0/SinglyLinkList.sourcelink.json
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/SinglyLinkList/obj/Debug/net9.0/SinglyLinkList.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/SinglyLinkList/obj/Debug/net9.0/refint/SinglyLinkList.dll
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/SinglyLinkList/obj/Debug/net9.0/SinglyLinkList.pdb
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/SinglyLinkList/obj/Debug/net9.0/SinglyLinkList.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/ObjectOrientedApp/SinglyLinkList/obj/Debug/net9.0/ref/SinglyLinkList.dll

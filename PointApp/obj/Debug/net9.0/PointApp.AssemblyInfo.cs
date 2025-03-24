@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PointApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee2f8db7d7fed408828fe0b8359033540476ada7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c22e9ca28f27f84c4b2f40b1801c443f3bd4a47b")]
 [assembly: System.Reflection.AssemblyProductAttribute("PointApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PointApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
