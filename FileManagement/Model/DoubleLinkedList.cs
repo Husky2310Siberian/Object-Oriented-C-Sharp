@@ -36,8 +36,11 @@ internal class DoubleLinkedList<T>
             Next = null,
             Previous = Tail,
         };
-        Tail!.Next = tmp;
-        Tail = tmp;
+        if (Tail != null)
+        {
+            Tail!.Next = tmp;
+            Tail = tmp;
+        }
     }
 
     public void Traverse(int totalChars)
