@@ -32,6 +32,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackApp", "StackApp\StackA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinglyLinkList", "SinglyLinkList\SinglyLinkList.csproj", "{34B038C9-67EA-42F4-8935-E45D8299AE1E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileManagement", "FileManagement\FileManagement.csproj", "{1AADA8D7-6D67-4AC0-89A3-40243679C816}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -102,5 +104,9 @@ Global
 		{34B038C9-67EA-42F4-8935-E45D8299AE1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34B038C9-67EA-42F4-8935-E45D8299AE1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34B038C9-67EA-42F4-8935-E45D8299AE1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AADA8D7-6D67-4AC0-89A3-40243679C816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AADA8D7-6D67-4AC0-89A3-40243679C816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AADA8D7-6D67-4AC0-89A3-40243679C816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AADA8D7-6D67-4AC0-89A3-40243679C816}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
